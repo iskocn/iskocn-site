@@ -53,10 +53,9 @@ offerings:
         In tempor, massa quis euismod convallis, felis elit sodales urna, at aliquet mi elit auctor 
         risus.
 testimonials:
-  - author: Vaibhav Sharma
+  - author: 张琪玉
     quote: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed diam luctus pretium. 
-      Sed quis egestas libero. Vestibulum nec venenatis ligula. 
+      情报检索语言是体系分类法、组配分类法、标题法、单元词法、叙词法、关键词法以及各种代码体系和引证关系追溯法等的统称。
   - author: Birger Hjørland
     quote: >-
       Knowledge Organization (KO) is about activities such as document description, indexing and classification performed in libraries, databases, archives etc. 
