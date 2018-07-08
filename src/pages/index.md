@@ -8,13 +8,6 @@ heading: Lorem ipsum dolor sit amet
 description: >-
   Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
   adipisci velit...
-情报检索语言与知识组织:
-  - author: 张琪玉
-    quote: >-
-      情报检索语言是体系分类法、组配分类法、标题法、单元词法、叙词法、关键词法以及各种代码体系和引证关系追溯法等的统称。
-  - author: Birger Hjørland
-    quote: >-
-      Knowledge Organization (KO) is about activities such as document description, indexing and classification performed in libraries, databases, archives etc. 
 offerings:
   blurbs:
     - image: /img/coffee.png
@@ -59,4 +52,11 @@ offerings:
         Praesent elit lectus, iaculis vel odio vitae, bibendum auctor lacus. Suspendisse potenti. 
         In tempor, massa quis euismod convallis, felis elit sodales urna, at aliquet mi elit auctor 
         risus.
+TestTestimonials:
+  - author: 张琪玉
+    quote: >-
+      情报检索语言是体系分类法、组配分类法、标题法、单元词法、叙词法、关键词法以及各种代码体系和引证关系追溯法等的统称。
+  - author: Birger Hjørland
+    quote: >-
+      Knowledge Organization (KO) is about activities such as document description, indexing and classification performed in libraries, databases, archives etc. 
 ---
