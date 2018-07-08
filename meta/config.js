@@ -4,7 +4,7 @@
 module.exports = {
   siteTitle: 'ISKO China', // Site title.
   siteTitleAlt: 'Society', // Alternative site title for SEO.
-  siteLogo: '/logos/logo-512x512.png', // Logo used for SEO and manifest.
+  siteLogo: '/src/img/logo.png', // Logo used for SEO and manifest.
   siteUrl: 'https://www.iskocn.net', // Domain of your website without pathPrefix.
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
   siteDescription: 'ISKO China Chapter Website', // Website description used for RSS feeds/meta description tag.
