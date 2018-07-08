@@ -6,8 +6,7 @@ meta_description: >-
   国际知识组织学会ISKO中国分会
 heading: ISKO China Chapter
 description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+  国际知识组织协会ISKO成立于1989年，是知识组织领域具有引领性地位的国际学会。ISKO旨在推进图书馆、数据库、词典和互联网等基于各种目的、各种形式的概念性知识组织工作。ISKOCN是ISKO中国分会的官方网站，旨在汇集华人知识组织学者和领域内优秀资源，促进知识组织的国内外交流与合作。
 offerings:
   blurbs:
     - image: /img/coffee.png

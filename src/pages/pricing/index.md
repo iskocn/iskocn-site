@@ -1,19 +1,13 @@
 ---
 templateKey: pricing-page
-title: Pricing
-meta_title: Pricing | Gatsby Starter Business
+title: 中文词表名录
+meta_title: 中文词表名录 | ISKO China
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  ISKO中国分会收集整理了各类中文词表，供知识组织研究和词表资源开发参考。
 pricing:
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta justo justo, 
-    non semper odio cursus in. Curabitur ligula tortor, tristique non odio nec, imperdiet 
-    mattis leo. Vivamus aliquam rhoncus tortor vitae convallis. Aliquam non dui nibh. Nam 
-    a velit at enim sagittis pellentesque.
-  heading: Monthly subscriptions
+    ISKO中国分会收集整理了各类中文词表，供知识组织研究和词表资源开发参考。
+  heading: 中文词表名录
   plans:
     - description: Nulla faucibus, leo a condimentum aliquam, libero leo vehicula arcu
       items:
@@ -37,4 +31,3 @@ pricing:
       plan: Custom
       price: '??'
 ---
-

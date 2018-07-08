@@ -1,38 +1,35 @@
 ---
 templateKey: about-page
 title: About Us
-meta_title: About Us | Gatsby Starter Business
+meta_title: About Us | ISKO China
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  ISKO成立于1989年，是知识组织领域具有引领性地位的国际学会。ISKO是一个研究内容宽泛、学科交叉的学术组织，其目的和任务是推进图书馆、数据库、词典和互联网等基于各种目的、各种形式的概念性知识组织工作。ISKO成立之初确立的宗旨是“对组织一般知识和特殊知识的各种方法加以研究、发展和应用，特别是对分类概念方法和人工智能进行作结合研究”。
+  
 ---
-## Lorem ipsum dolor sit amet, consectetuer
+## ISKO简介
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus 
-mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa 
-quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+ISKO成立于1989年，是知识组织领域具有引领性地位的国际学会。ISKO是一个研究内容宽泛、学科交叉的学术组织，其目的和任务是推进图书馆、数据库、词典和互联网等基于各种目的、各种形式的概念性知识组织工作。ISKO成立之初确立的宗旨是“对组织一般知识和特殊知识的各种方法加以研究、发展和应用，特别是对分类概念方法和人工智能进行作结合研究”。
 
-##In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. 
+ISKO是由7名成员组成的执行委员会，以及一个由22名成员组成的科学咨询委员会来负责运转。每两年召开一次会员会议。
 
-Nullam dictum felis eu pede mollis 
-pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. 
-Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra 
-quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. 
-Etiam ultricies nisi vel augue.  Nam eget dui. *Etiam rhoncus*. Maecenas 
-tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 
-Nam quam nunc, blandit vel, luctus pulvinar
+ISKO拥有多个国家或地区分会。目前ISKO总部设在德国的波恩。
 
-###Curabitur ullamcorper ultricies nisi.
+随着数字化、网络化的发展，ISKO的研究领域得到不断拓展。 作为一个跨学科的国际性学会组织，ISKO汇集了许多不同领域的专业人士。ISKO现拥有分布在世界各地的400多名会员，分别来自信息科学、哲学、语言学、计算机科学，以及医学信息学等专门领域。
 
-Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. 
-Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, 
-augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, 
-mollis sed, nonummy id, metus. 
-* Cras ultricies mi eu turpis hendrerit fringilla. 
-* Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; 
-* In ac dui quis mi consectetuer lacinia.
+## ISKO发展目标 
 
-**Etiam ultricies nisi vel augue!**
+为了实现其目标和任务，ISKO致力于:
+* 促进知识组织系统的研究、开发与应用，推进利用哲学、心理和语义方法序化知识；
+* 其会员提供知识组织方面的交流与沟通平台；
+* 发挥其在所有从事概念组织和知识处理问题研究的机构和国家学会之间的联系纽带功能。
+
+## ISKO重要活动
+
+* 每两年召开一次国际会议（自1990年起）；历届会议一览表
+* 召开国家和地区性的专题会议；
+* 出版引领本领域发展的科学期刊—《知识组织》（Knowledge Organization，简称KO），作为其会刊出版。（注：ISKO于1974年创刊《国际分类》(International Classification，简称IC)，1993年更名为现名；
+* 通过会刊《知识组织》发布ISKO新闻；
+* 发布知识组织领域的系列进展。
+
+诚邀您加入ISKO，成为国际知识组织学会的会员，共同繁荣知识组织研究与实践。
+
