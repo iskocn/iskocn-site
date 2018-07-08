@@ -57,8 +57,7 @@ testimonials:
     quote: >-
       Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed diam luctus pretium. 
       Sed quis egestas libero. Vestibulum nec venenatis ligula. 
-  - author: Subarashi San
+  - author: Birger Hjørland
     quote: >-
-      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et dignissim ligula. 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Knowledge Organization (KO) is about activities such as document description, indexing and classification performed in libraries, databases, archives etc. 
 ---
