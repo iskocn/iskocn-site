@@ -1,13 +1,10 @@
 ---
 templateKey: 'home-page'
 title: ISKO China Chapter
-meta_title: Home | ISKO China Chapter
+meta_title: Home | 国际知识组织学会ISKO中国分会
 meta_description: >-
   国际知识组织学会ISKO中国分会
-heading: 国际知识组织学会ISKO分会
-description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+heading: ISKO China Chapter
 testimonials:
   - author: 张琪玉
     quote: >-
@@ -15,6 +12,9 @@ testimonials:
   - author: Birger Hjørland
     quote: >-
       Knowledge Organization (KO) is about activities such as document description, indexing and classification performed in libraries, databases, archives etc. 
+description: >-
+  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
+  adipisci velit...
 offerings:
   blurbs:
     - image: /img/coffee.png
