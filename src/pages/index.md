@@ -6,8 +6,8 @@ meta_description: >-
   国际知识组织学会ISKO中国分会
 heading: ISKO China Chapter
 description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+  国际知识组织协会ISKO是全球知识组织领域具有引领地位的学会。
+  ISKOCN是ISKO中国分会的官方网站，旨在汇集华人知识组织学者和领域内优秀资源，促进知识组织的国内外交流与合作。
 offerings:
   blurbs:
     - image: /img/coffee.png
