@@ -1,6 +1,6 @@
 ---
 templateKey: 'home-page'
-title: Gatsby Starter Business
+title: ISKO China Chapter
 meta_title: Home | ISKO China Chapter
 meta_description: >-
   国际知识组织学会ISKO中国分会
