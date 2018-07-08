@@ -1,12 +1,9 @@
 ---
 templateKey: 'home-page'
 title: Gatsby Starter Business
-meta_title: Home | Gatsby Starter Business
+meta_title: Home | ISKO China Chapter
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  国际知识组织学会ISKO中国分会
 heading: Lorem ipsum dolor sit amet
 description: >-
   Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
