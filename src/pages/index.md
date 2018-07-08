@@ -1,6 +1,6 @@
 ---
 templateKey: 'home-page'
-title: 际知识组织学会ISKO中国分会
+title: 国际知识组织学会ISKO中国分会
 meta_title: Home | 国际知识组织学会ISKO中国分会
 meta_description: >-
   国际知识组织学会ISKO中国分会
