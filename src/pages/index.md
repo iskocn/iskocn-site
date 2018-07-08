@@ -1,17 +1,10 @@
 ---
 templateKey: 'home-page'
-title: ISKO China Chapter
+title: 际知识组织学会ISKO中国分会
 meta_title: Home | 国际知识组织学会ISKO中国分会
 meta_description: >-
   国际知识组织学会ISKO中国分会
 heading: ISKO China Chapter
-testimonials:
-  - author: 张琪玉
-    quote: >-
-      情报检索语言是体系分类法、组配分类法、标题法、单元词法、叙词法、关键词法以及各种代码体系和引证关系追溯法等的统称。
-  - author: Birger Hjørland
-    quote: >-
-      Knowledge Organization (KO) is about activities such as document description, indexing and classification performed in libraries, databases, archives etc. 
 description: >-
   Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
   adipisci velit...
@@ -59,4 +52,11 @@ offerings:
         Praesent elit lectus, iaculis vel odio vitae, bibendum auctor lacus. Suspendisse potenti. 
         In tempor, massa quis euismod convallis, felis elit sodales urna, at aliquet mi elit auctor 
         risus.
+testimonials:
+  - author: 张琪玉
+    quote: >-
+      情报检索语言是体系分类法、组配分类法、标题法、单元词法、叙词法、关键词法以及各种代码体系和引证关系追溯法等的统称。
+  - author: Birger Hjørland
+    quote: >-
+      Knowledge Organization (KO) is about activities such as document description, indexing and classification performed in libraries, databases, archives etc. 
 ---
