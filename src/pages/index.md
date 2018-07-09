@@ -11,7 +11,15 @@ offerings:
   blurbs:
     - image: /img/cct.jpg
       text: >
-      《中国分类主题词表》是在《中图法》编委会的主持下，从1987年开始由全国40个图书情报单位共同参加编制，1994年出版的一部大型文献标引工具书。它是在《中图法》第三版（包括《资料法》第三版）和《汉语主题词表》（以下简称《汉表》）的基础上，为实现分类主题一体化标引，为机助标引、自动标引提供条件，降低标引难度，提高检索效率和标引工作效率，编制而成的分类检索语言和主题检索语言兼容互换的工具。
+        Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi. Nam 
+        ipsum nulla, dapibus eu mi non, commodo commodo sapien. Pellentesque luctus 
+        neque id mauris accumsan, nec imperdiet justo eleifend. Nulla viverra, ipsum 
+        sit amet interdum pharetra, felis lorem sollicitudin felis, vehicula finibus 
+        enim nunc facilisis sapien. Donec nulla nisi, dictum quis nibh et, euismod 
+        semper eros. Praesent nunc tortor, consequat eu justo ac, dictum viverra enim. 
+        Etiam sed dui dapibus mauris congue facilisis. Nulla convallis, lectus vel 
+        vehicula interdum, turpis nunc aliquet sem, ac iaculis ligula mauris id tortor. 
+        Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam consectetur congue.
     - image: /img/coffee-gear.png
       text: >
         Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi. Nam 
