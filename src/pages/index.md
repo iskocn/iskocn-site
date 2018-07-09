@@ -11,18 +11,10 @@ offerings:
   blurbs:
     - image: /img/cct2.jpg
       text: >
-        F《中国分类主题词表》是在《中图法》编委会的主持下，从1987年开始由全国40个图书情报单位共同参加编制，1994年出版的一部大型文献标引工具书。它是在《中图法》第三版（包括《资料法》第三版）和《汉语主题词表》（以下简称《汉表》）的基础上，为实现分类主题一体化标引，为机助标引、自动标引提供条件，降低标引难度，提高检索效率和标引工作效率，编制而成的分类检索语言和主题检索语言兼容互换的工具.
-    - image: /img/coffee-gear.png
+        《中国分类主题词表》是在《中图法》编委会的主持下，从1987年开始由全国40个图书情报单位共同参加编制，1994年出版的一部大型文献标引工具书。它是在《中图法》第三版（包括《资料法》第三版）和《汉语主题词表》（以下简称《汉表》）的基础上，为实现分类主题一体化标引，为机助标引、自动标引提供条件，降低标引难度，提高检索效率和标引工作效率，编制而成的分类检索语言和主题检索语言兼容互换的工具.
+    - image: /img/ctweb.png
       text: >
-        Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi. Nam 
-        ipsum nulla, dapibus eu mi non, commodo commodo sapien. Pellentesque luctus 
-        neque id mauris accumsan, nec imperdiet justo eleifend. Nulla viverra, ipsum 
-        sit amet interdum pharetra, felis lorem sollicitudin felis, vehicula finibus 
-        enim nunc facilisis sapien. Donec nulla nisi, dictum quis nibh et, euismod 
-        semper eros. Praesent nunc tortor, consequat eu justo ac, dictum viverra enim. 
-        Etiam sed dui dapibus mauris congue facilisis. Nulla convallis, lectus vel 
-        vehicula interdum, turpis nunc aliquet sem, ac iaculis ligula mauris id tortor. 
-        Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam consectetur congue.
+        《汉语主题词表》是我国第一部大型综合性叙词表，1980 年6 月由中国科学技术情报研究所（现中国科学技术信息研究所）作为主持单位编制、科学技术文献出版社出版，包括自然科学和社会科学领域，共收词汇108 568 个。《汉语主题词表》是我国情报界与图书馆界20 世纪70 年代集体协作的智慧结晶。汉语主题词表（工程技术卷）》的重新编制是新时期我国图书情报界全国性大协作工程的成果，是网络在线编制叙词表的协同示范.
     - image: /img/tutorials.png
       text: >
         Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus vitae sollicitudin 
