@@ -9,17 +9,9 @@ description: >-
   国际知识组织协会ISKO成立于1989年，是知识组织领域具有引领性地位的国际学会。ISKO旨在推进图书馆、数据库、词典和互联网等基于各种目的、各种形式的概念性知识组织工作。ISKOCN是ISKO中国分会的官方网站，旨在汇集华人知识组织学者和领域内优秀资源，促进知识组织的国内外交流与合作。
 offerings:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/cct.jpg
       text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
-        sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
-        molestie sapien ornare cursus. Praesent eget volutpat est. Proin at 
-        sagittis ex. Duis quis dui magna. Nullam urna purus, blandit vitae tincidunt ut, 
-        scelerisque eu sem. Etiam porttitor elit eget mi luctus, vitae blandit enim pretium. 
-        Aenean nec hendrerit leo, a bibendum magna. In hac habitasse platea dictumst. 
-        Suspendisse sapien magna, vestibulum non vehicula id, pellentesque in ante. Nullam 
-        sed auctor tellus. Sed ipsum sem, dapibus nec eros in, feugiat sagittis mi. 
-        Nullam et dui interdum, varius nibh eu, efficitur metus.
+        《中国分类主题词表》是在《中图法》编委会的主持下，从1987年开始由全国40个图书情报单位共同参加编制，1994年出版的一部大型文献标引工具书。它是在《中图法》第三版（包括《资料法》第三版）和《汉语主题词表》（以下简称《汉表》）的基础上，为实现分类主题一体化标引，为机助标引、自动标引提供条件，降低标引难度，提高检索效率和标引工作效率，编制而成的分类检索语言和主题检索语言兼容互换的工具。
     - image: /img/coffee-gear.png
       text: >
         Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi. Nam 
